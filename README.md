@@ -30,7 +30,7 @@ Este script en Python se conecta a tu cuenta de correo electrónico, filtra corr
 1. **Clona el repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/email-transaction-extractor.git
+    git clone https://github.com/auyaban/email-transaction-extractor.git
     cd email-transaction-extractor
     ```
 
